@@ -6,3 +6,4 @@ This is asimple  practise
 
 新建分支featurel
 
+解决一下冲突就可以了
