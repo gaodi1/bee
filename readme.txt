@@ -11,3 +11,4 @@ This is asimple  practise
 
 解决一下冲突就可以了
 
+这是为了练习解决冲突的代码而已，
