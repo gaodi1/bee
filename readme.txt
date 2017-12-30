@@ -14,3 +14,4 @@ This is asimple  practise
 这是为了练习解决冲突的代码而已，
 
 练习分支的重置，加强自己的工做能力而已
+接着练习 git reset 重新改写自己的分支
