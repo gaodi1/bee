@@ -15,3 +15,4 @@ This is asimple  practise
 
 练习分支的重置，加强自己的工做能力而已
 接着练习 git reset 重新改写自己的分支
+使用小乌龟进行提交代码
